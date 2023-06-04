@@ -1,0 +1,2 @@
+# AWS_Beanstalk_with_Python_Flask_Application
+使用AWS Beanstalk搭建python flask application
