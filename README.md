@@ -4,7 +4,7 @@
 網站原始碼由以下 GitHub 專案改編成連接 MySQL：[專案連結](
 https://github.com/PrettyPrinted/youtube_video_code/tree/master/2020/02/10/Creating%20a%20Login%20Page%20in%20Flask%20Using%20Sessions "Creating a Login Page in Flask Using Sessions")
 
-[========]
+
 ### AWS 環境設定注意事項
 - **平台選擇 Python 3.9**
 
@@ -15,8 +15,6 @@ https://github.com/PrettyPrinted/youtube_video_code/tree/master/2020/02/10/Creat
 
 
 
-
-[========]
 ### Python 程式碼設定區域
 ```Python
 # 資料庫參數設定
@@ -46,5 +44,3 @@ try:
         for i in result:
             users.append(User(id=i[0], username=i[1], password=i[2]))
 ```
-
-[========]
