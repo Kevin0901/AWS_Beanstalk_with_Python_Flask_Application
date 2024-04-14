@@ -8,11 +8,11 @@ https://github.com/PrettyPrinted/youtube_video_code/tree/master/2020/02/10/Creat
 ### AWS 環境設定注意事項
 - **平台選擇 Python 3.9**
 
-![平台](https://media.discordapp.net/attachments/1115095502007050323/1115095517685370890/image.png "平台")
+![平台](https://github.com/Kevin0901/AWS_Beanstalk_with_Python_Flask_Application/blob/main/img/version.png "平台")
 
 - **執行個體選 t3.medium 與 t3.large**
 
-![執行個體](https://media.discordapp.net/attachments/1115095502007050323/1115097186070446171/image.png "執行個體")
+![執行個體](https://github.com/Kevin0901/AWS_Beanstalk_with_Python_Flask_Application/blob/main/img/type.png "執行個體")
 
 
 
